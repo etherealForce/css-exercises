@@ -18,12 +18,15 @@ body {
 
 .left, .right {
   display: flex;
-  
+
 }
 
 .right {
   margin-left: auto;
+  display: flex;
 }
+
+
 
 .profile-image {
   background: rebeccapurple;
