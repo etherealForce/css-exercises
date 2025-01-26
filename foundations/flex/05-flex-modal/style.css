@@ -28,11 +28,17 @@ body {
 .left {
   display: flex;
   flex-flow: column;
+  gap: 12px;
 }
 
 .top {
   display: flex;
   justify-content: space-between;
+}
+
+.header {
+  font-weight: 900;
+  font-size: 18px;
 }
 
 .icon {
