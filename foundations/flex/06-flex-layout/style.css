@@ -24,7 +24,6 @@ body {
 }
 
 
-
 .footer {
   display: flex;
   justify-content: space-between;
@@ -53,6 +52,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px 15px;
 }
 
 input {
