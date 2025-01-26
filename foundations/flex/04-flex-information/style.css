@@ -15,6 +15,7 @@ body {
   display: flex;
   flex-flow: column wrap;
   max-width: 200px;
+  align-items: center;
 }
 
 img {
