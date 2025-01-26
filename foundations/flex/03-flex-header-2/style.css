@@ -18,12 +18,12 @@ body {
 
 .left, .right {
   display: flex;
+  gap: 15px;
 
 }
 
 .right {
   margin-left: auto;
-  display: flex;
 }
 
 
